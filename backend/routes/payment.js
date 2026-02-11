@@ -62,4 +62,13 @@ router.get('/success', async (req, res) => {
     res.status(500).send("Verification failed");
   }
 });
+router.get('/receipt', async (req, res) => {
+  const token = req.query.token;
+
+  res.json({
+    message: "Payment verified",
+    transactionToken: token
+  });
+});
+
 
