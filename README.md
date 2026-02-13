@@ -25,4 +25,4 @@ Nthoppa is a digital payment platform integrating **DPO Pay** to enable:
 - USSD & WhatsApp hooks
 
 ## Author
-Junior Mosimanenkwe
+Junior Mosimanenkwe , Robi Robi , Larry Thebenala
